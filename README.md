@@ -1,1 +1,6 @@
-![Reimagined Readme](https://myreadme.vercel.app/api/embed/pratapyash?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+# Hi there, I'm Yash 👋
+
+`Contact me`
+- 📧 yashpratap@kgpian.iitkgp.ac.in
+- 💼 [LinkedIn](https://www.linkedin.com/in/pratap-yash)
+- 🐦 [Twitter](https://twitter.com/yourprofile)
