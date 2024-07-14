@@ -2,7 +2,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats `Public`](https://github-readme-stats-6e5r.vercel.app/api?username=pratapyash&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratapyash&layout=donut&hide=jupyter%20notebook)
 
 `Contact me`
 - 📧 yashpratap@kgpian.iitkgp.ac.in
