@@ -31,9 +31,9 @@
 
 ## 📈 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pratapyash&show_icons=true&hide=stars&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pratapyash&show_icons=true&hide=stars&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratapyash&layout=compact&hide=jupyter%20notebook,c%2B%2B,HTML,CSS&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratapyash&layout=compact&hide=jupyter%20notebook,c%2B%2B,HTML,CSS&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical)
 
 ---
 
