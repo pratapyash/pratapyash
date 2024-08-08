@@ -2,6 +2,14 @@
 
 ---
 
+## 📈 GitHub Stats
+
+![Github Stats](https://github-readme-stats-6e5r.vercel.app/api?username=pratapyash&show_icons=true&hide=stars&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratapyash&layout=compact&hide=jupyter%20notebook,c%2B%2B,HTML,CSS&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical)
+
+---
+
 ## 🛠️ Skills
 
 ### Languages
@@ -26,14 +34,6 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Nvidia NeMo](https://img.shields.io/badge/-Nvidia%20NeMo-76B900?style=flat&logo=nvidia&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![Github Stats](https://github-readme-stats-6e5r.vercel.app/api?username=pratapyash&show_icons=true&hide=stars&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratapyash&layout=compact&hide=jupyter%20notebook,c%2B%2B,HTML,CSS&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical)
 
 ---
 
