@@ -4,9 +4,9 @@
 
 ## 📈 GitHub Stats
 
-![Github Stats](https://github-readme-stats-6e5r.vercel.app/api?username=pratapyash&show_icons=true&hide=stars&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical)
+![Github Stats](https://github-readme-stats-6e5r.vercel.app/api?username=pratapyash&show_icons=true&hide=stars&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark#gh-dark-mode-only&show=prs_merged,prs_merged_percentage&hide=contribs,issues&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratapyash&layout=compact&hide=jupyter%20notebook,c%2B%2B,HTML,CSS&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratapyash&layout=compact&hide=jupyter%20notebook,c%2B%2B,HTML,CSS&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark#gh-dark-mode-only)
 
 ---
 
