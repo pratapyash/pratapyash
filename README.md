@@ -1,12 +1,21 @@
 # Hi there, I'm Yash 👋
-
 ---
 
 ## 📈 GitHub Stats
 
-![Github Stats](https://github-readme-stats-6e5r.vercel.app/api?username=pratapyash&rank_icon=github&show_icons=true&hide=stars,contribs&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark#gh-dark-mode-only&show=prs_merged,prs_merged_percentage)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=pratapyash&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratapyash&layout=compact&hide=jupyter%20notebook,c%2B%2B,HTML,CSS&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github-readme-stats-6e5r.vercel.app/api?username=pratapyash&rank_icon=github&show_icons=true&hide=stars,contribs&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark#gh-dark-mode-only&show=prs_merged,prs_merged_percentage" alt="Github Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapyash&layout=compact&hide=jupyter%20notebook,c%2B%2B,HTML,CSS&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="Top Langs" />
+</p>
 
 ---
 
