@@ -4,7 +4,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/pratapyash">
     <img src="https://streak-stats.demolab.com/?user=pratapyash&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
