@@ -1,6 +1,6 @@
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/pratapyash">
     <img src="https://streak-stats.demolab.com/?user=pratapyash&theme=dark" alt="GitHub Streak" />
   </a>
@@ -11,9 +11,9 @@
 <!-- </p> -->
 
 
-<!-- <p align="center"> -->
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapyash&layout=compact&hide=jupyter%20notebook&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="Top Langs" /> -->
-<!-- </p> -->
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapyash&layout=compact&hide=jupyter%20notebook&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="Top Langs" />
+</p>
 
 ---
 
